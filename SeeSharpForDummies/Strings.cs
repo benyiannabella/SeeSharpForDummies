@@ -56,6 +56,8 @@ namespace SeeSharpForDummies
             bool isNullOrWhiteSpace = String.IsNullOrWhiteSpace(blank);
             Console.WriteLine(isNullOrWhiteSpace);
 
+            //test modification
+            Console.WriteLine("test");
         }
 
     }
